@@ -1,6 +1,6 @@
 /*
  * do_bienen.c
- * Implementierung Bienenalgorithmus
+ * Command line version of bees
  *
  * $HeadURL$
  * $Id$

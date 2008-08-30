@@ -1,6 +1,7 @@
 /*
  * bienen.c
- * Implementierung Bienenalgorithmus
+ * The actual implementation of bee algorithm
+ * Functions in this file are called from command line as well as GUI code
  *
  * $HeadURL$
  * $Id$

@@ -1,6 +1,6 @@
 /*
  * Graph.m
- * Implementierung Bienenalgorithmus
+ * Control class of the GUI
  *
  * $HeadURL$
  * $Id$
