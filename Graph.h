@@ -2,8 +2,8 @@
  * Graph.h
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/Graph.h $
- * $Id: Graph.h 220 2008-08-17 09:48:14Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 #import <Cocoa/Cocoa.h>

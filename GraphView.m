@@ -2,8 +2,8 @@
  * GraphView.m
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/GraphView.m $
- * $Id: GraphView.m 220 2008-08-17 09:48:14Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 #import <math.h>

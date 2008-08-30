@@ -2,8 +2,8 @@
  * main.m
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/main.m $
- * $Id: main.m 133 2008-04-12 23:50:23Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 #import <Cocoa/Cocoa.h>
