@@ -1,6 +1,6 @@
 /*
  * GraphView.m
- * Implementierung Bienenalgorithmus
+ * View to display graph, including path of bees
  *
  * $HeadURL$
  * $Id$

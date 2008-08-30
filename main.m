@@ -1,6 +1,6 @@
 /*
  * main.m
- * Implementierung Bienenalgorithmus
+ * Main for GUI version of bees
  *
  * $HeadURL$
  * $Id$
