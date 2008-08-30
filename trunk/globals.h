@@ -2,8 +2,8 @@
  * globals.h
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/globals.h $
- * $Id: globals.h 220 2008-08-17 09:48:14Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 extern int numKnoten;

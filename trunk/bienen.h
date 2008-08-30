@@ -2,8 +2,8 @@
  * bienen.h
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/bienen.h $
- * $Id: bienen.h 176 2008-07-27 07:52:18Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 #define MAX_KNOTEN 2000

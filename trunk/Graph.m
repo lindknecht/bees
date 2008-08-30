@@ -2,8 +2,8 @@
  * Graph.m
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/Graph.m $
- * $Id: Graph.m 220 2008-08-17 09:48:14Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 #import "Graph.h"

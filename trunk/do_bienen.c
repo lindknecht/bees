@@ -2,8 +2,8 @@
  * do_bienen.c
  * Implementierung Bienenalgorithmus
  *
- * $HeadURL: svn://localhost/nadia/diplomarbeit/software/do_bienen.c $
- * $Id: do_bienen.c 201 2008-08-10 06:32:58Z kthul $
+ * $HeadURL$
+ * $Id$
  */
 
 #include <stdio.h>
